@@ -1,0 +1,8 @@
+; default configuration file
+[DEFAULT]
+xl_file = data/LEAP_College_Enrolment_Tracker.xlsx
+xl_file_sheet = Sheet1
+search = KLN College of Engineering
+output_file_heading = KLN College Details
+; no space after column name
+output_file = output/KLN_details.docx
